@@ -1,6 +1,6 @@
 [package]
 name = "transpose"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["iced-penguin"]
 description = "Transpose rows and columns"
 edition = "2021"
