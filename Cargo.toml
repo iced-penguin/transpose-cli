@@ -1,0 +1,15 @@
+[package]
+name = "transpose"
+version = "0.1.0"
+authors = ["iced-penguin"]
+description = "Transpose rows and columns"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/iced-penguin/transpose-cli"
+
+[[bin]]
+name = "tp"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.5.35", features = ["derive"] }
