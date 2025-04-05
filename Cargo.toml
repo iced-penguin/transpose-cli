@@ -1,5 +1,5 @@
 [package]
-name = "transpose"
+name = "transpose-cli"
 version = "1.0.0"
 authors = ["iced-penguin"]
 description = "Transpose rows and columns"

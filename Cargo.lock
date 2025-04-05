@@ -152,7 +152,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "transpose"
+name = "transpose-cli"
 version = "1.0.0"
 dependencies = [
  "clap",
